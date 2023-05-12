@@ -37,3 +37,5 @@ Definimos religião como um mecanismo que a humanidade criou para transmitir con
 * Organização social
 
 Acreditamos na divindade interna de cada ser humano. Cada pessoa é única e divina, pois tem a capacidade de conceber a vida de uma maneira única. Esta é a nossa fé e o coração da Govinda Systems Church DAO.
+
+## By me a 
