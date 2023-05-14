@@ -1,5 +1,7 @@
 # Govinda Systems Church DAO
 
+<img src="g.png" height="20%" width="20%" alt="Unform" />
+
 ## Nossos Valores
 
 1. **Comunidade e fraternidade**: Acreditamos no espírito de comunidade e fraternidade, condições humanas únicas que nos unem em nossa fé compartilhada.
